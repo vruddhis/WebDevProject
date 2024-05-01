@@ -1,0 +1,21 @@
+{
+    "name": "vruddhi-and-vanshika",
+    "version": "1.0.0",
+    "description": "Shopping website",
+    "scripts": {
+        "client:install": "cd client && npm install",
+        "client:start": "cd client && npm start",
+        "server:install": "cd server && npm install",
+        "server:start": "cd server && npm start",
+        "start": "concurrently \"npm run server:start\" \"npm run client:start\"",
+        "build": "cd client && npm run build"
+    },
+    "dependencies": {
+        "concurrently": "^6.2.2"
+    },
+    "main": "index.js",
+    "devDependencies": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.415ca1d5.css",
+    "main.js": "/static/js/main.a87c098c.js",
+    "static/media/moisturiser.jpg": "/static/media/moisturiser.a1f6c111a768d70ebb0b.jpg",
+    "static/media/modal.png": "/static/media/modal.5ed807b06e418223c663.png",
+    "static/media/eyeliner.jpeg": "/static/media/eyeliner.966645accfc4edbae2ed.jpeg",
+    "static/media/beauty.png": "/static/media/beauty.b31104d2cf0998dbd5af.png",
+    "static/media/lipstick.jpg": "/static/media/lipstick.9b0fef3032672599822c.jpg",
+    "static/media/rednailpaint.jpg": "/static/media/rednailpaint.6708fdd7a5f01c42c673.jpg",
+    "index.html": "/index.html",
+    "main.415ca1d5.css.map": "/static/css/main.415ca1d5.css.map",
+    "main.a87c098c.js.map": "/static/js/main.a87c098c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.415ca1d5.css",
+    "static/js/main.a87c098c.js"
+  ]
+}
